@@ -4,7 +4,6 @@
 
 
 
-
 - 🌱 I’m currently learning **Full stack Web development**
 
 - 📫 How to reach me **amandeepbollampalli@gmail.com**
