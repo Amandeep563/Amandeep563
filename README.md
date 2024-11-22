@@ -25,9 +25,8 @@
 
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@amandeepbo81458/30-nites-of-code)  
-  ![@amandeepbo81458 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amandeepbo81458)
-
+  [Check out my progress!](https://www.codedex.io/@amandeep5018/30-nites-of-code)  
+  ![@amandeep5018 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amandeep5018)
 
 
 
