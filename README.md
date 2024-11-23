@@ -19,3 +19,7 @@ I'm currently learning
 [![](https://visitcount.itsvg.in/api?id=Amandeep563&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@amandeep5018/30-nites-of-code)  
+  ![@amandeep5018 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amandeep5018)
