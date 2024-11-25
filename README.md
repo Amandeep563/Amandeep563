@@ -20,7 +20,7 @@ I'm currently learning
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=default&r=5ci" width="356" alt="Amandeep's Dev Card"/></a>
+<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=wide&r=uzf" width="652" alt="Amandeep's Dev Card"/></a>
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@amandeep5018/30-nites-of-code)  
