@@ -20,7 +20,6 @@ I'm currently learning Full Stack Develpement
 ---
 [![](https://visitcount.itsvg.in/api?id=Amandeep&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=wide&r=uzf" width="652" alt="Amandeep's Dev Card"/></a>
 
