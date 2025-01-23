@@ -1,7 +1,7 @@
 ## I'm Amandeep
 
 # 💫 About Me:
-I'm currently learning React 
+I'm currently learning React.js
 
 
 ## 🌐 Socials:
