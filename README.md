@@ -14,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep563&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=wide&r=6ab" width="652" alt="Amandeep's Dev Card"/></a>
----
-[![](https://visitcount.itsvg.in/api?id=Amandeep563&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
