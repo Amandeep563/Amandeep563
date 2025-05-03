@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me:
 🔭 I’m currently working on improving my full-stack development skills.<br>🤝 I’m looking to collaborate on open-source projects and web development challenges.<br>💡 I’m looking for help with advanced JavaScript concepts and performance optimization.<br>🌱 I’m currently learning React.js, Tailwind CSS<br>⚡ Fun fact: I started coding as a commerce student, and now I'm passionate about full-stack development!<br>
 
 
