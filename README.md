@@ -8,12 +8,13 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=wide&r=1y7" width="652" alt="Amandeep's Dev Card"/></a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amandeep563&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amandeep563&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep563&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<a href="https://app.daily.dev/amandeep58"><img src="https://api.daily.dev/devcards/v2/TdppcDtXGCVKJZX73eSSA.png?type=wide&r=hoi" width="652" alt="Amandeep's Dev Card"/></a>
 
 
